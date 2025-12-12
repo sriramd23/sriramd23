@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey there 👋
+
+I am Sriram Dhanasekaran, a 3rd-year undergrad in electrical engineering at the Indian Institute of Technology Kanpur.
+
+I am currently learning machine learning and signal processing applications using Python and MATLAB, as well as a bit of DSA using C++.
+
+I also work with 3-D models and animate them in Blender and Unreal Engine.
+
+How to reach me: you can contact me via my email or LinkedIn.
+
 
 <!--
 **sriramd23/sriramd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
